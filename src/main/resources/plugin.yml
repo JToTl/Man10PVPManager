@@ -1,0 +1,12 @@
+name: Man10PVPManager
+version: '${version}'
+main: ltotj.minecraft.man10pvpmanager.Main
+api-version: 1.17
+
+commands:
+  eqlimit:
+    usage: ""
+
+permissions:
+  eqlimit.admin:
+    default: op
